@@ -121,7 +121,7 @@ while True:
         print("\n3. Full Combined Genre Coverage (Union |):")
         print(sorted(union))
 
-    # Choice 6: Exit
+    
     elif choice == "6":
 
         print("\nThank you for using the Library Manager. Goodbye!")
