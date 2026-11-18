@@ -1,4 +1,4 @@
-# Lab 13 - Inventory Control System
+
 
 inventory = ["Notebook", "Pen", "Eraser", "Ruler"]
 
